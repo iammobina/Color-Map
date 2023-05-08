@@ -1,6 +1,4 @@
-#  Kohonen’s Self-Organizing Feature Map (SOFM)
-
-Created a Kohonen's Self-Organizing Feature Map (SOFM) that can map a dataset of Dimensional data into a 2-Dimensional space.
+#  Color Map
 
 1. Initially, generate 1600 RGB colors at random. Values for Red, Green, and Blue must all be in the range 0 to 255.
 
